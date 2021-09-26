@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/yVBfQYb/gc-logo-nobg.png" alt="gc-logo-nobg" border="0" width="500px"></p>
+
 
 <h2>Introduction</h2>
 <p>KlingboChat is an instant messaging webapp built from scratch for my personnal portfolio. This project is not intended to generate profit, but the source code is open source and anyone interested can fork the project and do whatever he wants with.</p>
